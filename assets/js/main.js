@@ -79,3 +79,14 @@ for(let i = 0; i < text.length / 100; i++){
     korb.push(text.slice(100 * i, 100 * (i+1)).concat(` - ${i + 1} of ${Math.ceil(text.length / 100)}`)) 
 }
 console.log(korb)
+
+
+
+
+console.log('====================================')
+
+
+
+// CodeFlow Übung lev3_1: for loop string Array
+console.log('CodeFlow Übung lev3_1: for loop string Array')
+
